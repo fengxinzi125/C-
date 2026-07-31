@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(xxd \"d:/Cprogram/C语言大作业/C语言大作业/main.cpp\")",
+      "Bash(python -c ' *)"
+    ]
+  }
+}
